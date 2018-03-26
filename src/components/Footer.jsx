@@ -6,10 +6,10 @@ class Navbar extends Component {
   render() {
     return (
       <footer id="footer">
-        <div itemscope itemtype="http://schema.org/LocalBusiness">
+        <div itemScope itemType="http://schema.org/LocalBusiness">
           <ul className="contact-icons">
             <li className="icon fa-map-marker">Charleston, SC</li>
-            <li className="icon fa-phone"><span itemprop="telephone"><a href="tel:+18436080756">(843) 608-0756</a></span></li>
+            <li className="icon fa-phone"><span itemProp="telephone"><a href="tel:+18436080756">(843) 608-0756</a></span></li>
             <li className="icon fa-envelope"><a href="mailto:dave@daybreak.studio">dave@daybreak.studio</a></li>
           </ul>
         </div>
