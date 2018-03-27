@@ -41,10 +41,10 @@ class Index extends React.Component {
 
         <section id="banner">
   				<div className="inner">
-  					<h1>People-centric, <br />
-              data-driven, <br />
-              agile results</h1>
-  					<p>Daybreak Studio helps organizations reach people through better use of technology. The world of marketing, advertising and customer service technology is vast and daunting, but the goal behind it all is simply to scale your team’s ability to find the right people and communicate the most relevant message. Daybreak Studio helps organizations navigate this challenge through workshops, design and development services, and ongoing data driven insights and recommendations.</p>
+  					<h1>Marketing <br />
+              Technology <br />
+            Results</h1>
+          <p>Daybreak Studio helps organizations select, implement and leverage the right technology to drive growth. We do this through a data-driven, pragmatic and agile process of workshops, light weight development and ongoing data analysis and optimization.</p>
   					<ul className="actions">
   						<li><a href="#one" className="button big wide scrolly-middle">Get started</a></li>
   					</ul>
