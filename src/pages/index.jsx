@@ -41,8 +41,8 @@ class Index extends React.Component {
 
         <section id="banner">
   				<div className="inner">
-  					<h1>People-centric,<br />
-              data-driven,<br />
+  					<h1>People-centric, <br />
+              data-driven, <br />
               agile results</h1>
   					<p>Daybreak Studio helps organizations reach people through better use of technology. The world of marketing, advertising and customer service technology is vast and daunting, but the goal behind it all is simply to scale your team’s ability to find the right people and communicate the most relevant message. Daybreak Studio helps organizations navigate this challenge through workshops, design and development services, and ongoing data driven insights and recommendations.</p>
   					<ul className="actions">
@@ -88,8 +88,8 @@ class Index extends React.Component {
   					<div className="image" data-position="center right">
   						<img src="images/pic03.jpg" alt="" />
   					</div>
-  					<h2>Analytics and<br />
-  					Optimization<br />
+  					<h2>Analytics and <br />
+  					Optimization <br />
           Services</h2>
   					<div className="content">
   						<h3>Ongoing support to keep moving forward</h3>
@@ -106,8 +106,8 @@ class Index extends React.Component {
   					<div className="image" data-position="top left">
   						<img src="images/pic04.jpg" alt="" />
   					</div>
-  					<h2>Design and<br />
-  					Development<br />
+  					<h2>Design and <br />
+  					Development <br />
           Services</h2>
   					<div className="content">
   						<h3>Simple, Modern, Agile, Effective</h3>
