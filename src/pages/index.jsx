@@ -54,7 +54,7 @@ class Index extends React.Component {
         <article id="one" className="spotlight odd accent1">
   				<div className="inner">
   					<div className="image" data-position="top right">
-  						<img src="images/pic01.jpg" alt="" />
+  						<img src="images/journey.jpg" alt="" />
   					</div>
   					<h2>Customer <br />Journey <br />Workshops</h2>
   					<div className="content">
@@ -70,11 +70,11 @@ class Index extends React.Component {
   			<article id="two" className="spotlight even accent2">
   				<div className="inner">
   					<div className="image" data-position="top left">
-  						<img src="images/pic02.jpg" alt="" />
+  						<img src="images/journey.jpg" alt="" />
   					</div>
   					<h2>Marketing <br />Technology <br />Audit</h2>
   					<div className="content">
-  						<h3>Pragmatic Advice and Quick Wins</h3>
+  						<h3>Navigate the MarTech Landscape</h3>
   						<p>A technology audit helps to rationalize how your technology is used today and how it affects your customer experience, in order to find both short and long term room for improvement.</p>
   						<ul className="actions">
   							<li><Link to="/marketing-technology-audit" className="button special accent2">Find the right tools</Link></li>
